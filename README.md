@@ -1,4 +1,5 @@
-<div align="center">  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
   <img width="12" />
@@ -17,7 +18,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
 
 ###
